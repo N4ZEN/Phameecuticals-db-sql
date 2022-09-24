@@ -21,6 +21,7 @@ Database for a pharmaceutical company to easy integration of data between labs a
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#database-schema">Database Schema</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -41,10 +42,15 @@ Restore operations.
 ### Built With
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
-
 ### prerequisites
 * [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
+### Database Schema 
+<details>
+
+![DB Schema](https://github.com/N4ZEN/Pharmaceuticals-db-sql/blob/main/db-schema.png?raw=true)
+
+</details>
 
 <!-- LICENSE -->
 ## License
